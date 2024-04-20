@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verificador de Idade</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1> Verificador de Idade </h1>
+    </header>
+
+    <section>
+        <div id="opcao">
+            <p> Ano de Nascimento:
+                <input type="number" name="txtano" id="txtano"><br>
+            </p>
+            <p>Sexo:
+                <input type="radio" name="radsex" id="fem" value="F" checked>
+                <label for="fem">Feminino</label>
+                <input type="radio" name="radsex" id="mas" value="M">
+                <label for="mas">Masculino</label>
+            </p>
+            <p>
+                <input type="button" onclick="idade()" value="Calcular">
+            </p>
+        </div>
+        <div id="res">
+            Aqui vai aparecer o resultado...
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; Exercicio-002</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
