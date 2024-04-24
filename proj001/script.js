@@ -20,5 +20,5 @@ function carregar() {
         //BOA NOITE
         img.src = '3.png'
         document.body.style.background = '#515154'
-    }
+    } 
 }
