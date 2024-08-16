@@ -3,6 +3,7 @@
 
 Este repositório contém uma coleção de projetos desenvolvidos para aprimorar minhas habilidades em desenvolvimento web, com foco em JavaScript e PHP. Cada projeto foi criado com o intuito de explorar diferentes aspectos do desenvolvimento front-end e back-end, aprimorando meu conhecimento nessas áreas.
 
+> O servidor PHP foi iniciado no sistema operacional Linux utilizando o terminal com o comando `php -S localhost:8000 -t.`.
 
 ## Habilidades utilizadas
 
