@@ -1,7 +1,7 @@
 
 # Projetos JavaScript e PHP
 
-Um conjuto de projetos em JavaScript feitos para aprimorar meus conhecimentos.
+Este repositório contém uma coleção de projetos desenvolvidos para aprimorar minhas habilidades em desenvolvimento web, com foco em JavaScript e PHP. Cada projeto foi criado com o intuito de explorar diferentes aspectos do desenvolvimento front-end e back-end, aprimorando meu conhecimento nessas áreas.
 
 
 ## Habilidades utilizadas
@@ -18,7 +18,7 @@ Um conjuto de projetos em JavaScript feitos para aprimorar meus conhecimentos.
 
 ## Aprendizados
 
-O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e como você superou-os?
+Ao desenvolver esses projetos, aprendi a integrar diferentes tecnologias para criar aplicações web dinâmicas e responsivas. Enfrentei desafios como a manipulação de dados assíncronos com AJAX e JSON, e a criação de funcionalidades interativas com JavaScript. Superar esses desafios me ajudou a entender melhor o ciclo de vida de uma aplicação web e a importância da comunicação entre front-end e back-end.
 
 
 ## 🛠 Habilidades
@@ -26,5 +26,6 @@ Javascript, HTML, CSS, PHP, AJAX, JSON
 
 
 # Olá, eu sou a Suelen! 👋
+Sou apaixonada por desenvolvimento web e sempre estou em busca de novos desafios para expandir meus conhecimentos. Me interesso por tecnologias front-end e back-end, e adoro criar soluções que melhoram a experiência do usuário. Estou sempre aberta a colaborações e novas oportunidades.
 
 
